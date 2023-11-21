@@ -1,0 +1,40 @@
+.user-profile {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+button {
+ 
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.body
+{
+  text-align: center;
+}
+.body1
+{
+  text-align: center;
+}
+.body2
+{
+  text-align: center;
+}
+.butt
+{
+  margin-left: 650px;
+}
